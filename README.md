@@ -1,5 +1,8 @@
 # Pixel Art Maker
 
+This was a fun assignment for my Galvanize Software Engineering Immersive. Because it was forked from another private repository and I could not change the visibility, I decided to clone it into this public repository. Enjoy!     -Joe
+
+## The Assignment:
 In this exercise, you'll create your own pixel art maker which will allow a user to choose colors from a palette and then paint pixel art. The interface is completely up to you, but it could look something like this.
 
 ![Example of Pixel Art Maker](pixel-art-maker-alt.png)
